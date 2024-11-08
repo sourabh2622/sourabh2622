@@ -1,6 +1,7 @@
-# 💫 About Me:
+![image](https://github.com/user-attachments/assets/2847d6fe-ef2a-472b-9ac6-67649c4048dc)# 💫 About Me:
 🌐 Full-Stack PHP Developer with a strong foundation in frontend and backend technologies, currently working in Kolhapur.<br>💻 Experienced in HTML, CSS, Bootstrap, PHP, MySQL, CodeIgniter 4, and currently enhancing my skills in Laravel and Express.js.<br>🚀 Passionate about building dynamic and user-friendly web applications, with expertise in creating solutions for eCommerce, non-emergency patient transportation, and gym management.<br>📈 Developed a variety of projects, from multi-panel eCommerce platforms to dynamic painting and mango business websites, focusing on both functionality and user experience.<br>🔧 Skilled in integrating SEO strategies, user authentication, and payment gateways to deliver comprehensive and secure applications.<br>📊 Experienced in implementing data analytics and reporting features, providing clients with valuable insights through custom dashboards and graphs.
 
+<img align="center" src="" alt="Coding" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-s-kumbhar) 
